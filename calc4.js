@@ -1,6 +1,6 @@
 // ====================== CONFIGURATION ======================
 const DOC_FEE = 1090.00;
-const THIRD_PARTY = 244.00;
+const THIRD_PARTY = 544.00;
 const NEW_PLATE = 450.00;
 const TRANSFER_PLATE = 200.00;
 let PROCARE_NEW = 1950.00;
